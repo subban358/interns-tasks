@@ -1,1 +1,2 @@
 First line in commonFile in main branch
+Second line in commonFile in main branch
